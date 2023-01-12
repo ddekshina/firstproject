@@ -1,0 +1,13 @@
+body
+{color:blueviolet; /*its a little too bright*/
+    background-color:beige;
+    font-size:20px;
+    }
+h1,h2{
+    font-family:"Helvetica", "Ariel", sans-serif;
+    font-weight: normal;
+}
+ul{list-style-type:circle;text-align:right; }
+ol{list-style-type:lower-roman;}
+footer{text decoration: none;}\
+
